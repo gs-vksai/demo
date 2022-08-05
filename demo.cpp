@@ -2,6 +2,6 @@
 using namespace std;
 int main(){
 int x;
-cout<<"x: "<<x;
+cout<<"vikash's second commit";
 retrurn 0;
 }
